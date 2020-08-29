@@ -1,0 +1,5 @@
+C:\Users\19ayu\output.txt
+C:\Users\19ayu\input.txt
+1e7
+100
+10000
